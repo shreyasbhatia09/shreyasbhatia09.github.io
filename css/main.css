@@ -1,4 +1,6 @@
 
+
+/*https://codepen.io/nxworld/embed/OyRrGy?height=493&theme-id=light&slug-hash=OyRrGy&default-tab=result&user=nxworld&embed-version=2&pen-title=demo%3ACSS%20scroll%20down%20button&preview=true*/
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
 * {
   margin: 0;
@@ -35,7 +37,7 @@ section h1 {
   white-space: nowrap;
 }
 
-#section01 { background: url(/Users/shreyasbhatia/Desktop/Work/Web/shreyasbhatia09.github.io/img/skyline.JPG) center center / cover no-repeat;}
+#section01 { background: url("/img/skyline.JPG ") center center / cover no-repeat;}
 /*#section02 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg02.jpg) center center / cover no-repeat;}
 #section03 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg03.jpg) center center / cover no-repeat;}
 #section04 { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg04.jpg) center center / cover no-repeat;}
